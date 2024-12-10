@@ -1,0 +1,21 @@
+# Core packages
+numpy==2.0.2  # tensorflow 요구사항 때문에 고정
+pandas==2.2.3
+scipy==1.14.1
+
+# Machine Learning
+scikit-learn==1.5.2
+imbalanced-learn==0.12.4
+torch==2.5.1
+tensorflow==2.18.0
+
+# Data Visualization
+matplotlib==3.9.3
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.67.1
+PyYAML==6.0.2
+python-dotenv==1.0.1
+ml-dtypes==0.4.1  # tensorflow 요구사항 때문에 고정
+sympy==1.13.1  # torch 요구사항 때문에 고정
